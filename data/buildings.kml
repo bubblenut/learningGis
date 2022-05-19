@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"> <Placemark>
+ <name>Простая метка</name>
+ <description>Привязана к земной поверхности. Приспосабливается к рельефу местности.</description>
+ <Point>
+ <coordinates>59.92557260539743, 30.41146210076866,0</coordinates>
+ </Point>
+ </Placemark> </kml>
